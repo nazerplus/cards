@@ -1,9 +1,9 @@
 {
-  "current_version": "3.0.1",
-  "latest_version": "3.5.1",
+  "current_version": "3.5.1",
+  "latest_version": "4.0.1",
   "is_update_available": true,
   "update_url": "https://nazer-plus.ir/uploads/3f3fc00b870a48ee93df271dcc4751c5.apk",
-  "is_force_update": true,
+  "is_force_update": false,
   "release_notes": [
     "راه اندازی دستیار هوشمند",
     "بهبود عملکرد و سرعت برنامه",
