@@ -1,14 +1,13 @@
 {
-  "current_version": "3.5.1",
-  "latest_version": "3.6.0",
+  "current_version": "3.0.1",
+  "latest_version": "3.5.1",
   "is_update_available": true,
   "update_url": "https://nazer-plus.ir/uploads/3f3fc00b870a48ee93df271dcc4751c5.apk",
   "is_force_update": false,
+  "min_required_version": "3.0.0",
   "release_notes": [
-    "راه اندازی دستیار هوشمند",
-    "بهبود عملکرد و سرعت برنامه",
-    "اضافه شدن قابلیت جدید مدیریت پروژه",
-    "بهبود رابط کاربری"
-  ],
-  "min_required_version": "3.0.1"
+    "رفع باگ‌های گزارش شده",
+    "بهبود عملکرد برنامه",
+    "اضافه شدن ویژگی‌های جدید"
+  ]
 }
