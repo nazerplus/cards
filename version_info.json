@@ -1,6 +1,6 @@
 {
   "current_version": "3.0.1",          // نسخه فعلی که در برنامه hardcode شده
-  "latest_version": "3.5.1",           // آخرین نسخه موجود برای دانلود
+  "latest_version": "3.6.1",           // آخرین نسخه موجود برای دانلود
   "is_update_available": true,         // آیا آپدیت جدید موجود است؟
   "update_url": "https://nazer-plus.ir/uploads/3f3fc00b870a48ee93df271dcc4751c5.apk",  // لینک دانلود APK
   "is_force_update": true,            // آیا آپدیت اجباری است؟
