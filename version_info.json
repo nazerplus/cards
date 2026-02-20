@@ -2,8 +2,8 @@
   "current_version": "1.0.0",
   "latest_version": "4.0.1",
   "is_update_available": true,
-  "update_url": "https://nazer-plus.ir/uploads/3f3fc00b870a48ee93df271dcc4751c5.apk",
-  "is_force_update": false,
+  "update_url": "https://nazer-plus.ir/uploads/ee8cfffad58942e1bcd975e43927ace3.apk",
+  "is_force_update": true,
   "min_required_version": "3.0.0",
   "release_notes": [
     "رفع باگ‌های گزارش شده",
