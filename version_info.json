@@ -4,7 +4,7 @@
   "is_update_available": true,
   "update_url": "https://nazer-plus.ir/uploads/ee8cfffad58942e1bcd975e43927ace3.apk",
   "is_force_update": true,
-  "min_required_version": "4.0.1",
+  "min_required_version": "4.0.2",
   "release_notes": [
     "رفع باگ‌های گزارش شده",
     "بهبود عملکرد برنامه",
